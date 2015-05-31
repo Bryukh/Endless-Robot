@@ -4,8 +4,10 @@ Table of Content
 1. [Version History](VersionHistory.md)
 2. [Game Overview](GameOverview.md)
     1. Main Line
-    2. Philosophy
-    3. Common Question
+    3. Genre
+    3. Main Points
+    4. Philosophy
+    5. Common Question
 3. [Features](Features.md)
 4. [The Game World](GameWorld.md)
 5. [Characters](Characters.md)
@@ -23,14 +25,15 @@ Table of Content
 Appendixes
 ----------
 
-1. Robot Skill Trees
-2. Enemy Stats
-3. Item Stats
+1. Robot Skills
+2. Player Skill
+3. Enemy Stats
+4. Item Stats
     1. Weapons
     2. Modules
     3. Scrap
-4. Unlocks
-5. Achievements
+5. Unlocks
+6. Achievements
 
 
 
