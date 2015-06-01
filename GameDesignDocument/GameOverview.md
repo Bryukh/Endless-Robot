@@ -20,6 +20,8 @@ RPG, Rogue-like, Adventure, Coding, Idle.
 
 - The Game never ends. You can achieve first ratings and be the best, but there always exist competitors.
 - You can not manage your robot directly. Equip, prepare, upgrade, **code** it and launch. After that only one action is allowed for you - "Escape" for robot.
+- Player can use basic predefined algorithms, which are given and can be found in quests OR
+  use custom algorithms with coding style.
 - All areas (dungeons, areas, open world) are randomly generated. Each dungeon runs in a different way each time.
 - Diablo similar itemized system with generated items, unique, legendaries and sets.
 - Many playable characters (robots) with various skill trees and strategies. Most of them are locked from the beginning and should be opened with various quests later on.
@@ -39,6 +41,7 @@ Don't waste your time on routines such as as farming or similar battles. The pla
 Players can play 15 minutes in day or by 5 minutes breaks to check robot status and loot and
 manage it with basic algorithms. Or player can analyze and examine each step and improve and improve
 robots to speed up "basic" player progress. This way Hardcore gamers and casual players will
-find interest in the Game. 
+find interest in the Game. Players can spend much time to coding and polishing code. But non coding
+ players can achieve top results with nice sets of equipment.
 
 Intellect is our main weapon.
