@@ -10,6 +10,14 @@ Table of Content
     5. Common Question
 3. [Features](Features.md)
 4. [The Game World](GameWorld.md)
+    1. World History
+    2. Story
+        1. [Prologue](World/Prologue.md)
+        2. Plot
+        3. Side lines
+    3. Factions
+    4. Geography
+    5. Biosphere
 5. [Characters](Characters.md)
     1. Playable Characters
     2. Enemies
